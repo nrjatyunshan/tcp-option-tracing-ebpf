@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+src/tot
+src/vmlinux.h
+src/tot.skel.h
